@@ -1,0 +1,106 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.parent{
+    width: 100%;
+    float: left;
+}
+.subparent1{
+width: 98%;
+margin: 1%;
+height: 96vh;
+border: 2px solid black;
+float: left;
+}
+.div1{
+    width: 100%;
+    padding-top: 40px;
+    height: 90px;
+    text-align: center;
+}
+.para{
+    padding-top: 25px;
+    font-size: 23px;
+}
+.div2{
+    width:100%;
+    float: left;
+}
+.div3{
+    width: 92%;
+    margin-top: 2.5%;
+    margin-left: 4%;
+    margin-right: 4%;
+    height: 425px;
+    border: 2px solid black;
+    float: left;
+}
+.div4{
+    width: 30%;
+    float: left;
+    height: 300px;
+}
+.div5{
+    width: 70%;
+    float: left;
+    height: 300px;
+}
+.div6{
+    width: 40%;
+    padding-top: 4%;
+    float: left;
+    height: 280px;
+    text-align: right;
+}
+.div7{
+    padding-left: 1%;
+    padding-top: 4%;
+    width: 59%;
+    float: left;
+    height: 280px;
+}
+.inputtag{
+    display: block;
+    width: 90%;
+    padding: 8px;
+    margin-bottom: 19px;
+}
+.ptag{
+    font-size: larger;
+    padding-bottom: 34px;
+}
+.tag1{
+    width: 94%;
+}
+.div8{
+    text-align: center;
+}
+.btn1{
+    padding: 14px 50px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background-color: green;
+    margin-right: 14px;
+    margin-top: 14px;
+    margin-left: 30%;
+}
+.btn2{
+    padding: 14px 50px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(211, 12, 12);
+}
+.img{
+    width: 210px;
+    height: 220px;
+    margin-top: 50px;
+    margin-left: 40%;
+    border: 2px solid black;
+}
+.image{
+    width: 210px;
+    height: 220px;
+}
